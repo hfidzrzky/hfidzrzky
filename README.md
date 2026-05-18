@@ -50,8 +50,8 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
 *Statistik ini diperbarui secara otomatis.*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hfidzrzky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hafidz's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfidzrzky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=hfidzrzky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hafidz Stats" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=hfidzrzky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
 </p>
 
 <p align="left">
