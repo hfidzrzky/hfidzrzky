@@ -50,11 +50,11 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
 *Visualisasi aktivitas kontribusi kode saya:*
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hfidzrzky&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hfidzrzky&theme=github-dark-red&hide_border=true&area=true&bg_color=0D1117" width="100%" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hfidzrzky&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hfidzrzky&theme=github-dark-red&hide_border=true&background=0D1117" alt="GitHub Streak" height="150" />
 </p>
 
 ---
