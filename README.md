@@ -13,6 +13,7 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
 ---
 
 <br>
+
 ## 🛠️ Tech Stack & Tools
 
 *Teknologi yang sering saya gunakan dan pelajari:*
@@ -40,15 +41,16 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Ubuntu_WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
+
 <br>
+
 ### 📈 GitHub Stats
 
 *Statistik ini diperbarui secara otomatis.*
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hfidzrzky&show_icons=true&theme=transparent&hide_border=true&title_color=1F8ACB&icon_color=1F8ACB&text_color=777777" alt="Hafidz's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfidzrzky&layout=compact&theme=transparent&hide_border=true&title_color=1F8ACB&text_color=777777" alt="Top Languages" />
-</p>
+![Hafidz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hfidzrzky&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hfidzrzky&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
