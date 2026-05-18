@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hafidz%20Rizky&fontSize=70&animation=fadeIn&fontColor=4479A1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Muhammad%20Hafidz&fontSize=70&animation=fadeIn&fontColor=4479A1" />
 </p>
 
 # Hi there, I'm Hafidz 👋
