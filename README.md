@@ -13,7 +13,7 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
 ---
 
 <br>
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 *Teknologi yang sering saya gunakan dan pelajari:*
 
@@ -53,7 +53,11 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
 ---
 
 ### 📫 Mari Terhubung!
+
+*Saya selalu terbuka untuk diskusi mengenai pengembangan software, kolaborasi proyek, atau sekadar berbagi pengalaman.*
+
 - 💼 **LinkedIn:** https://www.linkedin.com/in/hfidzrzky
+- 📧 **Email:** [muhammadhafidzz133@gmail.com](mailto:muhammadhafidzz133@gmail.com)
 - 📧 **Instagram:** https://www.instagram.com/hfidzrzky_?igsh=MTk3czk3d2Z4a2M2bQ==
 
-*"Striving to write code that is readable, scalable, and efficient."*
+*"Striving to write code that is readable, scalable, maintainable and efficient."*
