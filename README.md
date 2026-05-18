@@ -13,7 +13,7 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
 ---
 
 <br>
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 *Teknologi yang sering saya gunakan dan pelajari:*
 
