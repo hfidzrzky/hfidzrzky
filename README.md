@@ -5,7 +5,8 @@
 Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besar dalam dunia pengembangan perangkat lunak. Saya senang mempelajari arsitektur sistem, manajemen database, dan bagaimana membangun aplikasi yang efisien serta mudah dirawat. Fokus utama saya saat ini adalah memperdalam fundamental pemrograman, menerapkan **clean code**, dan mengeksplorasi teknologi modern baik di sisi backend maupun frontend.
 
 
-### 📚 Aktivitas Saat Ini
+## 📚 Aktivitas Saat Ini
+
 *   🎓 Sedang menempuh studi S1 Teknik Informatika.
 *   💻 Mengembangkan proyek personal dan tugas akhir/kuliah dengan standar industri.
 *   🌱 Terbuka untuk kesempatan magang (*internship*) dan kolaborasi open-source.
@@ -48,9 +49,18 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
 
 *Statistik ini diperbarui secara otomatis.*
 
-![Hafidz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hfidzrzky&show_icons=true&theme=tokyonight&hide_border=true)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hfidzrzky&show_icons=true&theme=tokyonight&hide_border=true" alt="Hafidz's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfidzrzky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hfidzrzky&layout=compact&theme=tokyonight&hide_border=true)
+<br>
 
 ---
 
