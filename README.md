@@ -49,18 +49,14 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
 
 *Statistik ini diperbarui secara otomatis.*
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hfidzrzky&show_icons=true&theme=tokyonight&hide_border=true" alt="Hafidz's GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfidzrzky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hfidzrzky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hafidz's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfidzrzky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+</p>
 
-<br>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hfidzrzky&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
 
 ---
 
