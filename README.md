@@ -19,9 +19,9 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Tech Stack & Learning Journey
 
-*Teknologi yang sering saya gunakan dan pelajari:*
+*Barisan tools dan teknologi yang masuk radar radar eksplorasi saya saat ini (sebagian digunakan aktif, sebagian lagi masih digali potensinya):*
 
 <p align="left">
   <!-- Bahasa Pemrograman -->
@@ -44,7 +44,6 @@ Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besa
   <!-- DevOps & Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Ubuntu_WSL-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
 <br>
